@@ -12,4 +12,4 @@ en linux nos muestra el nombre de usuario (kc) @ (localhost) nombre de maquina y
 En git bash se ve de la siguiente manera 
 ![$](./imagenes/GitBashPrompt.png)
 y en powershell de esta otra
-![PS C:\Users\Tuliux>__](./imagenes/GitBashPrompt.png)
+![PS C:\Users\Tuliux>__](./imagenes/PowerShellPrompt.png)
