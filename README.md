@@ -14,3 +14,13 @@ En git bash se ve de la siguiente manera
 
 y en powershell de esta otra  
 > ![PS C:\Users\Tuliux>__](./imagenes/PowerShellPrompt.png)
+
+**SHELL:** Se refiere al interprete de comandos que utiliza la terminal, en Linux se tiene la posibilidad de cambiar a la que mejor nos convenga. Los comandos pueden variar entre interpretes.
+
+**Ejemplos de Shell:**
+
++ Bash
++ Korn Shell
++ Z shell
++ Bourne Shell
++ Powershell (Windows)
