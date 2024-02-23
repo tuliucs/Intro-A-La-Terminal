@@ -14,3 +14,8 @@ Si utilizas sistemas operativos Windows 10 o Windows 11 y no tienes instalado WS
 7. Introduce un nombre de usuario que deses utilizar.
 8. Introduce contraseña para ese usuario y confirmala.
 9. Cuando quieras volver a utilizar ubuntu basta con ejecutar wsl desde powershell o buscar Ubuntu o WSL en el menú de inicio de windows.
+
+**UTILES:**  Si tuvo problemas con las indicaciones anteriores puede revisar los siguientes links segun le convenga.  
+[Pasos de instalación del sitio learn.microsoft.com](https://learn.microsoft.com/es-es/windows/wsl/install-manual)  
+
+[Solución de problemas con WSL tomado también de learn.microsoft.com](https://learn.microsoft.com/es-es/windows/wsl/troubleshooting)
